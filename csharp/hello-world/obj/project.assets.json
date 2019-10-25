@@ -4068,11 +4068,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\hunt\\Exercism\\current\\csharp\\hello-world\\HelloWorld.csproj",
+      "projectUniqueName": "E:\\hunt\\Exercism\\master\\csharp\\hello-world\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "E:\\hunt\\Exercism\\current\\csharp\\hello-world\\HelloWorld.csproj",
+      "projectPath": "E:\\hunt\\Exercism\\master\\csharp\\hello-world\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "E:\\hunt\\Exercism\\current\\csharp\\hello-world\\obj\\",
+      "outputPath": "E:\\hunt\\Exercism\\master\\csharp\\hello-world\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
