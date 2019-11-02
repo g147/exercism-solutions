@@ -1,0 +1,16 @@
+E:\hunt\Exercism\csharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.csprojAssemblyReference.cache
+E:\hunt\Exercism\csharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.csproj.CoreCompileInputs.cache
+E:\hunt\Exercism\csharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.AssemblyInfoInputs.cache
+E:\hunt\Exercism\csharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.AssemblyInfo.cs
+E:\hunt\Exercism\csharp\gigasecond\bin\Debug\netcoreapp2.1\testhost.exe
+E:\hunt\Exercism\csharp\gigasecond\bin\Debug\netcoreapp2.1\testhost.dll
+E:\hunt\Exercism\csharp\gigasecond\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\hunt\Exercism\csharp\gigasecond\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\hunt\Exercism\csharp\gigasecond\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\hunt\Exercism\csharp\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.deps.json
+E:\hunt\Exercism\csharp\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.runtimeconfig.json
+E:\hunt\Exercism\csharp\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.runtimeconfig.dev.json
+E:\hunt\Exercism\csharp\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.dll
+E:\hunt\Exercism\csharp\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.pdb
+E:\hunt\Exercism\csharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.dll
+E:\hunt\Exercism\csharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.pdb
