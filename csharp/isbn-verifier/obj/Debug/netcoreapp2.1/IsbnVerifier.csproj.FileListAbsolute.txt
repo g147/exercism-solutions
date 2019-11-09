@@ -1,0 +1,16 @@
+E:\hunt\Exercism\csharp\isbn-verifier\obj\Debug\netcoreapp2.1\IsbnVerifier.csprojAssemblyReference.cache
+E:\hunt\Exercism\csharp\isbn-verifier\obj\Debug\netcoreapp2.1\IsbnVerifier.csproj.CoreCompileInputs.cache
+E:\hunt\Exercism\csharp\isbn-verifier\obj\Debug\netcoreapp2.1\IsbnVerifier.AssemblyInfoInputs.cache
+E:\hunt\Exercism\csharp\isbn-verifier\obj\Debug\netcoreapp2.1\IsbnVerifier.AssemblyInfo.cs
+E:\hunt\Exercism\csharp\isbn-verifier\bin\Debug\netcoreapp2.1\testhost.exe
+E:\hunt\Exercism\csharp\isbn-verifier\bin\Debug\netcoreapp2.1\testhost.dll
+E:\hunt\Exercism\csharp\isbn-verifier\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\hunt\Exercism\csharp\isbn-verifier\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\hunt\Exercism\csharp\isbn-verifier\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\hunt\Exercism\csharp\isbn-verifier\bin\Debug\netcoreapp2.1\IsbnVerifier.deps.json
+E:\hunt\Exercism\csharp\isbn-verifier\bin\Debug\netcoreapp2.1\IsbnVerifier.runtimeconfig.json
+E:\hunt\Exercism\csharp\isbn-verifier\bin\Debug\netcoreapp2.1\IsbnVerifier.runtimeconfig.dev.json
+E:\hunt\Exercism\csharp\isbn-verifier\bin\Debug\netcoreapp2.1\IsbnVerifier.dll
+E:\hunt\Exercism\csharp\isbn-verifier\bin\Debug\netcoreapp2.1\IsbnVerifier.pdb
+E:\hunt\Exercism\csharp\isbn-verifier\obj\Debug\netcoreapp2.1\IsbnVerifier.dll
+E:\hunt\Exercism\csharp\isbn-verifier\obj\Debug\netcoreapp2.1\IsbnVerifier.pdb
