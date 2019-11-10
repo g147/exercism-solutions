@@ -1,23 +1,9 @@
 ﻿using System;
+using System.Linq;
 using System.Text.RegularExpressions;
-using System.Collections;
 public static class IsbnVerifier{
-    public static bool IsValid(string number){
-        ArrayList allMatches = new ArrayList();
-        Match m = Regex.Match(number, "[0-9X]");
-        int r=0,a=10;
-        while (m.Success) {
-            allMatches.Add(m.Value);
-        }
-        if (allMatches.Count !=10)
-            return false;
-        for(int i = 0; i < allMatches.Count; i++) {   
-            if ((string)allMatches[i]=="X")
-                r+=10;
-            else
-                r+=a*Int32.Parse((string)allMatches[i]);
-            a-=1;
-        }  
-        return r%11==0;
-    }
+    public static bool IsValid(string num){
+        num = num.Replace("-", "");
+        return Regex.IsMatch(num, @"^\d{9}[\dX]$") && num.Reverse().Select((x, u) => (x == 'X' ? 10 : x - '0') * (u + 1)).Sum() % 11 == 0;
+    }   
 }
